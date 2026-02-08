@@ -1,2 +1,0 @@
-# velmora
-Velmora official website
