@@ -27,3 +27,53 @@ body {
   letter-spacing: 0.15em;
   opacity: 0.75;
 }
+
+.collection {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.collection h2 {
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.2em;
+  margin-bottom: 40px;
+}
+
+.products {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background: #111;
+  padding: 20px;
+  width: 260px;
+  border: 1px solid #222;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card h3 {
+  margin: 15px 0 5px;
+}
+
+.price {
+  opacity: 0.8;
+  margin-bottom: 15px;
+}
+
+.order {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #eaeaea;
+  color: #eaeaea;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+}
+
+.order:hover {
+  background: #eaeaea;
+  color: #0b0b0b;
+}
