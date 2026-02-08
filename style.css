@@ -3,7 +3,7 @@ body {
   padding: 0;
   background: #0b0b0b;
   color: #eaeaea;
-  font-family: 'Times New Roman', serif;
+  font-family: 'Cinzel', serif;
 }
 
 .hero {
@@ -16,12 +16,14 @@ body {
 }
 
 .hero h1 {
-  font-size: 3rem;
-  letter-spacing: 0.15em;
+  font-family: 'UnifrakturCook', serif;
+  font-size: 3.2rem;
+  letter-spacing: 0.25em;
   margin-bottom: 10px;
 }
 
 .hero p {
   font-size: 1rem;
+  letter-spacing: 0.15em;
   opacity: 0.75;
 }
